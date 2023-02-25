@@ -3,11 +3,21 @@
  
 ### IMPLEMENTATION STEPS:
 
-1.Create a Spotify developer account.
-2.Go to the dashboard and click on "Create an app."
-3.Obtain your client ID and client secret.
-4.Replace the same in Google Colab.
-5.You're good to go!
+1. Create a Spotify developer account. 
+   - Visit the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/) and click on "Log in" or "Sign up" to create an account.
+
+2. Go to the dashboard and click on "Create an app."
+   - Once you're logged in, click on "Create an app" to start the process of creating your Spotify app.
+
+3. Obtain your client ID and client secret.
+   - Once your app is created, you'll be taken to the app dashboard. Under the "App Settings" section, you'll find your "Client ID" and "Client Secret" which you will need to use in your code.
+
+4. Replace the same in Google Colab.
+   - In your Google Colab notebook, replace the "client_id" and "client_secret" variables with the values obtained in step 3.
+
+5. You're good to go!
+   - Once you've completed the above steps, you should be able to run your Spotify analyzer app in Google Colab. Enjoy!
+
 
  
  
