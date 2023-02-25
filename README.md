@@ -1,6 +1,15 @@
 # spotify_analysis
  This app allows user to gain insights into their music preferences and listening habits by analyzing their public playlist that you provide. 
  
+### IMPLEMENTATION STEPS:
+
+1.Create a Spotify developer account.
+2.Go to the dashboard and click on "Create an app."
+3.Obtain your client ID and client secret.
+4.Replace the same in Google Colab.
+5.You're good to go!
+
+ 
  
  ## Technology Stack
 
