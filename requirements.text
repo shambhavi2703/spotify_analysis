@@ -1,10 +1,8 @@
-<center>
-<u>System Requirements:</u>
-</center>
-<center>
-A Spotify developer account
-Access to the Spotify Developer Dashboard
-A Google Colab account or other Python environment to run the code
-Internet connection to access the Spotify API
-Basic knowledge of Python programming language and API calls.
-</center>
+Requirements:
+
+1.A Spotify developer account
+2.Access to the Spotify Developer Dashboard
+3.A Google Colab account or other Python environment to run the code
+4.Internet connection to access the Spotify API
+5.Basic knowledge of Python programming language and API calls.
+
