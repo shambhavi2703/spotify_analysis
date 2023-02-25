@@ -10,7 +10,7 @@
    - Once you're logged in, click on "Create an app" to start the process of creating your Spotify app.
 
 3. Obtain your client ID and client secret.
-   - Once your app is created, you'll be taken to the app dashboard. Under the "App Settings" section, you'll find your "Client ID" and "Client Secret" which you will need to use in your code.
+   - Once your app is created, you'll be taken to the app dashboard. Under the "App Settings" section, you'll find your "Client ID" and "Client Secret" which you will      need to use in your code.
 
 4. Replace the same in Google Colab.
    - In your Google Colab notebook, replace the "client_id" and "client_secret" variables with the values obtained in step 3.
