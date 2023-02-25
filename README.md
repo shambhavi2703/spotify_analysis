@@ -13,3 +13,6 @@
   ![Spotify](https://img.shields.io/badge/-Spotify-1ED760?style=flat&logo=spotify&logoColor=white)
   
 </div>
+
+<a href="https://colab.research.google.com/github/shambhavi2703/spotify_analysis/blob/main/<notebook>.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
